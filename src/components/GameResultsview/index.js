@@ -78,3 +78,4 @@ const GameResultsView = props => {
 }
 
 export default GameResultsView
+
