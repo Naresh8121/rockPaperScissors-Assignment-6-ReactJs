@@ -26,3 +26,4 @@ const ScoreView = props => {
 }
 
 export default ScoreView
+
